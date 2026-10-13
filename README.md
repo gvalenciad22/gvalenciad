@@ -1,2 +1,0 @@
-# gvalenciad
-Portafolio
